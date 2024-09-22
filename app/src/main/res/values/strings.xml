@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeminiAi</string>
+    <string name="tv1">Hello</string>
+    <string name="textinput">輸入來對話</string>
+    <string name="todo" />
+    <string name="sendbutton">傳送</string>
+</resources>
